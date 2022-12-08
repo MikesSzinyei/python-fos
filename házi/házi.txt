@@ -1,0 +1,4 @@
+F= A+(k*h/2)
+1 osztályvezérlő
+2 osztály bekér
+3 számol
